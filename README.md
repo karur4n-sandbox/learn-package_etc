@@ -1,0 +1,3 @@
+# learn package etc...
+
+Java のパッケージやら import やらを学ぶ場
